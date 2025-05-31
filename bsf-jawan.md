@@ -59,3 +59,7 @@ On May 14, 2025, Purnam was exchanged for the Pakistani ranger at the Attari-Wag
 1. [After 20 days, Pak hands over BSF jawan, wife says sindoor safe thanks to PM Modi](https://www.hindustantimes.com/cities/chandigarh-news/after-20-days-pakistan-rangers-hand-over-bsf-jawan-at-attari-wagah-checkpost-101747203909898.html), May 14, 2025, Hindustan Times
 1. [BSF jawan, detained by Pakistan Rangers on April 23, returns to India](https://www.hindustantimes.com/india-news/bsf-jawan-purnam-kumar-shaw-who-was-in-pakistan-rangers-custody-after-pahalgam-attack-returns-to-india-101747202414818.html), May 14, 2025, Hindustan Times
 1. [BSF jawan Purnam Kumar Shaw treated like a spy by Pakistan, was not allowed to brush: Report]( https://www.hindustantimes.com/india-news/bsf-jawan-pk-shaw-was-treated-like-a-spy-by-pakistan-was-not-allowed-to-brush-report-101747395149253.html) May 16, 2025, Hindustan Times
+
+---
+May 27, 2025.
+Copyright © 2025 Rohit Dube. All Rights Reserved Worldwide.
