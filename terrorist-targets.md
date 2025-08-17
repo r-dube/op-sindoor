@@ -33,8 +33,8 @@ PoJK: Pakistan occupied Jammu and Kashmir
 | HM | Mehmoona Joya, Sialkot | Punjab | 12 |
 | HM | Maskar Raheel Shahid Gulpur, Kotli | PoJK | 35 | 
 
-## Map with approximate locations
-<iframe src="https://www.google.com/maps/d/embed?mid=1cKbhDhZaTwrH9lBJfT6D4JpLuaKl9r4&ehbc=2E312F" width="640" height="480"></iframe>
+[Here is a map with approximate location of the camps](https://www.google.com/maps/d/edit?mid=1cKbhDhZaTwrH9lBJfT6D4JpLuaKl9r4&usp=sharing)
+
 
 ## References
 1. [Operation Sindoor: List of 9 terrorist sites targeted by Indian armed forces in Pakistan, PoK](https://www.hindustantimes.com/india-news/operation-sindoor-list-of-9-terrorist-sites-targeted-by-indian-armed-forces-in-pakistan-pok-101746582414473.html), May 07, 2025, Hindustan Times
