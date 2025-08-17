@@ -25,13 +25,16 @@ PoJK: Pakistan occupied Jammu and Kashmir
 |---|---|---|---|
 | LeT | Markaz Taiba, Muridke | Punjab | 30 |
 | LeT | Markaz Ahle Hadith, Barnala | PoJK | 10 |
-| LeT | Sawai Nala, Muzzafarabad | PoJK | 30 |
+| LeT | Sawai Nala, Muzaffarabad | PoJK | 30 |
 | JeM | Markaz Subhan Allah, Bahawalpur | Punjab | 100 |
 | JeM | Sarjal, Tehra Kalan | Punjab | 8 |
 | JeM | Markaz Abbas, Kotli | PoJK | 15 |
 | JeM | Syed Na Bilal, Muzaffarabad | PoJK | 20 |
 | HM | Mehmoona Joya, Sialkot | Punjab | 12 |
 | HM | Maskar Raheel Shahid Gulpur, Kotli | PoJK | 35 | 
+
+## Map with approximate locations
+<iframe src="https://www.google.com/maps/d/embed?mid=1cKbhDhZaTwrH9lBJfT6D4JpLuaKl9r4&ehbc=2E312F" width="640" height="480"></iframe>
 
 ## References
 1. [Operation Sindoor: List of 9 terrorist sites targeted by Indian armed forces in Pakistan, PoK](https://www.hindustantimes.com/india-news/operation-sindoor-list-of-9-terrorist-sites-targeted-by-indian-armed-forces-in-pakistan-pok-101746582414473.html), May 07, 2025, Hindustan Times
